@@ -1,0 +1,21 @@
+.display,
+.display p {
+  margin: 2rem 0rem;
+  font-size: 2rem;
+}
+
+.display p {
+  color: gray;
+}
+
+.display input {
+  border: none;
+  font-size: 4rem;
+  color: rgba(0, 140, 255, 0.842);
+  text-align: center;
+  width: 100%;
+}
+
+input:focus {
+  outline: none;
+}
